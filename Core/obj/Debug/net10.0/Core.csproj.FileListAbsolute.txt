@@ -1,0 +1,57 @@
+/Users/alpersaritas/Desktop/Core/bin/Debug/net10.0/Core.deps.json
+/Users/alpersaritas/Desktop/Core/bin/Debug/net10.0/Core.dll
+/Users/alpersaritas/Desktop/Core/bin/Debug/net10.0/Core.pdb
+/Users/alpersaritas/Desktop/Core/obj/Debug/net10.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alpersaritas/Desktop/Core/obj/Debug/net10.0/Core.AssemblyInfoInputs.cache
+/Users/alpersaritas/Desktop/Core/obj/Debug/net10.0/Core.AssemblyInfo.cs
+/Users/alpersaritas/Desktop/Core/obj/Debug/net10.0/Core.csproj.CoreCompileInputs.cache
+/Users/alpersaritas/Desktop/Core/obj/Debug/net10.0/Core.dll
+/Users/alpersaritas/Desktop/Core/obj/Debug/net10.0/refint/Core.dll
+/Users/alpersaritas/Desktop/Core/obj/Debug/net10.0/Core.pdb
+/Users/alpersaritas/Desktop/Core/obj/Debug/net10.0/ref/Core.dll
+/Users/alpersaritas/Desktop/Project_Saritas_Lab2/Core/bin/Debug/net10.0/Core.deps.json
+/Users/alpersaritas/Desktop/Project_Saritas_Lab2/Core/bin/Debug/net10.0/Core.dll
+/Users/alpersaritas/Desktop/Project_Saritas_Lab2/Core/bin/Debug/net10.0/Core.pdb
+/Users/alpersaritas/Desktop/Project_Saritas_Lab2/Core/obj/Debug/net10.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alpersaritas/Desktop/Project_Saritas_Lab2/Core/obj/Debug/net10.0/Core.AssemblyInfoInputs.cache
+/Users/alpersaritas/Desktop/Project_Saritas_Lab2/Core/obj/Debug/net10.0/Core.AssemblyInfo.cs
+/Users/alpersaritas/Desktop/Project_Saritas_Lab2/Core/obj/Debug/net10.0/Core.csproj.CoreCompileInputs.cache
+/Users/alpersaritas/Desktop/Project_Saritas_Lab2/Core/obj/Debug/net10.0/Core.dll
+/Users/alpersaritas/Desktop/Project_Saritas_Lab2/Core/obj/Debug/net10.0/refint/Core.dll
+/Users/alpersaritas/Desktop/Project_Saritas_Lab2/Core/obj/Debug/net10.0/Core.pdb
+/Users/alpersaritas/Desktop/Project_Saritas_Lab2/Core/obj/Debug/net10.0/ref/Core.dll
+/Users/alpersaritas/Desktop/Dersler/3. Sınıf/NET Software Technology/Proje/Project_Saritas_Lab3/Core/bin/Debug/net10.0/Core.deps.json
+/Users/alpersaritas/Desktop/Dersler/3. Sınıf/NET Software Technology/Proje/Project_Saritas_Lab3/Core/bin/Debug/net10.0/Core.dll
+/Users/alpersaritas/Desktop/Dersler/3. Sınıf/NET Software Technology/Proje/Project_Saritas_Lab3/Core/bin/Debug/net10.0/Core.pdb
+/Users/alpersaritas/Desktop/Dersler/3. Sınıf/NET Software Technology/Proje/Project_Saritas_Lab3/Core/obj/Debug/net10.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alpersaritas/Desktop/Dersler/3. Sınıf/NET Software Technology/Proje/Project_Saritas_Lab3/Core/obj/Debug/net10.0/Core.AssemblyInfoInputs.cache
+/Users/alpersaritas/Desktop/Dersler/3. Sınıf/NET Software Technology/Proje/Project_Saritas_Lab3/Core/obj/Debug/net10.0/Core.AssemblyInfo.cs
+/Users/alpersaritas/Desktop/Dersler/3. Sınıf/NET Software Technology/Proje/Project_Saritas_Lab3/Core/obj/Debug/net10.0/Core.csproj.CoreCompileInputs.cache
+/Users/alpersaritas/Desktop/Dersler/3. Sınıf/NET Software Technology/Proje/Project_Saritas_Lab3/Core/obj/Debug/net10.0/Core.sourcelink.json
+/Users/alpersaritas/Desktop/Dersler/3. Sınıf/NET Software Technology/Proje/Project_Saritas_Lab3/Core/obj/Debug/net10.0/Core.dll
+/Users/alpersaritas/Desktop/Dersler/3. Sınıf/NET Software Technology/Proje/Project_Saritas_Lab3/Core/obj/Debug/net10.0/refint/Core.dll
+/Users/alpersaritas/Desktop/Dersler/3. Sınıf/NET Software Technology/Proje/Project_Saritas_Lab3/Core/obj/Debug/net10.0/Core.pdb
+/Users/alpersaritas/Desktop/Dersler/3. Sınıf/NET Software Technology/Proje/Project_Saritas_Lab3/Core/obj/Debug/net10.0/ref/Core.dll
+/Users/alpersaritas/Desktop/Dersler/3. Sınıf/NET Software Technology/Proje/Project_Saritas_Lab4/Core/bin/Debug/net10.0/Core.deps.json
+/Users/alpersaritas/Desktop/Dersler/3. Sınıf/NET Software Technology/Proje/Project_Saritas_Lab4/Core/bin/Debug/net10.0/Core.dll
+/Users/alpersaritas/Desktop/Dersler/3. Sınıf/NET Software Technology/Proje/Project_Saritas_Lab4/Core/bin/Debug/net10.0/Core.pdb
+/Users/alpersaritas/Desktop/Dersler/3. Sınıf/NET Software Technology/Proje/Project_Saritas_Lab4/Core/obj/Debug/net10.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alpersaritas/Desktop/Dersler/3. Sınıf/NET Software Technology/Proje/Project_Saritas_Lab4/Core/obj/Debug/net10.0/Core.AssemblyInfoInputs.cache
+/Users/alpersaritas/Desktop/Dersler/3. Sınıf/NET Software Technology/Proje/Project_Saritas_Lab4/Core/obj/Debug/net10.0/Core.AssemblyInfo.cs
+/Users/alpersaritas/Desktop/Dersler/3. Sınıf/NET Software Technology/Proje/Project_Saritas_Lab4/Core/obj/Debug/net10.0/Core.csproj.CoreCompileInputs.cache
+/Users/alpersaritas/Desktop/Dersler/3. Sınıf/NET Software Technology/Proje/Project_Saritas_Lab4/Core/obj/Debug/net10.0/Core.dll
+/Users/alpersaritas/Desktop/Dersler/3. Sınıf/NET Software Technology/Proje/Project_Saritas_Lab4/Core/obj/Debug/net10.0/refint/Core.dll
+/Users/alpersaritas/Desktop/Dersler/3. Sınıf/NET Software Technology/Proje/Project_Saritas_Lab4/Core/obj/Debug/net10.0/Core.pdb
+/Users/alpersaritas/Desktop/Dersler/3. Sınıf/NET Software Technology/Proje/Project_Saritas_Lab4/Core/obj/Debug/net10.0/ref/Core.dll
+/Users/alpersaritas/Desktop/Dersler/3. Sınıf/NET Software Technology/Proje/Project_Saritas_Lab4/Core/obj/Debug/net10.0/Core.sourcelink.json
+/Users/alpersaritas/Desktop/Dersler/3. Sınıf/NET Software Technology/Proje/Project_Saritas_Lab5/Core/bin/Debug/net10.0/Core.deps.json
+/Users/alpersaritas/Desktop/Dersler/3. Sınıf/NET Software Technology/Proje/Project_Saritas_Lab5/Core/bin/Debug/net10.0/Core.dll
+/Users/alpersaritas/Desktop/Dersler/3. Sınıf/NET Software Technology/Proje/Project_Saritas_Lab5/Core/bin/Debug/net10.0/Core.pdb
+/Users/alpersaritas/Desktop/Dersler/3. Sınıf/NET Software Technology/Proje/Project_Saritas_Lab5/Core/obj/Debug/net10.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alpersaritas/Desktop/Dersler/3. Sınıf/NET Software Technology/Proje/Project_Saritas_Lab5/Core/obj/Debug/net10.0/Core.AssemblyInfoInputs.cache
+/Users/alpersaritas/Desktop/Dersler/3. Sınıf/NET Software Technology/Proje/Project_Saritas_Lab5/Core/obj/Debug/net10.0/Core.AssemblyInfo.cs
+/Users/alpersaritas/Desktop/Dersler/3. Sınıf/NET Software Technology/Proje/Project_Saritas_Lab5/Core/obj/Debug/net10.0/Core.csproj.CoreCompileInputs.cache
+/Users/alpersaritas/Desktop/Dersler/3. Sınıf/NET Software Technology/Proje/Project_Saritas_Lab5/Core/obj/Debug/net10.0/Core.dll
+/Users/alpersaritas/Desktop/Dersler/3. Sınıf/NET Software Technology/Proje/Project_Saritas_Lab5/Core/obj/Debug/net10.0/refint/Core.dll
+/Users/alpersaritas/Desktop/Dersler/3. Sınıf/NET Software Technology/Proje/Project_Saritas_Lab5/Core/obj/Debug/net10.0/Core.pdb
+/Users/alpersaritas/Desktop/Dersler/3. Sınıf/NET Software Technology/Proje/Project_Saritas_Lab5/Core/obj/Debug/net10.0/ref/Core.dll
